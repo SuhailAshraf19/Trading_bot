@@ -1,0 +1,17 @@
+# --- Core Exchange Interaction ---
+ccxt>=4.2.0           # Unified API for 100+ crypto exchanges
+
+# --- Data Science & Indicators ---
+pandas>=3.0.0         # Fast data manipulation (2026 stable release)
+numpy>=2.1.0          # Numerical math for candle data
+pandas-ta>=0.3.14b    # Technical Analysis library for RSI, EMA, etc.
+
+# --- Security & Config ---
+python-dotenv>=1.2.0  # Safe loading of API keys from .env file
+
+# --- Logic & Scheduling ---
+schedule>=1.2.0       # Simple Python loop timer for 5m intervals
+loguru>=0.7.0         # Advanced logging (better than print for debugging)
+
+# --- Web Utilities (Optional but recommended) ---
+requests>=2.31.0      # For sending Telegram notifications
