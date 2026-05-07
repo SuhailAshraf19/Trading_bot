@@ -9,7 +9,7 @@ API_SECRET = os.getenv("API_SECRET")
 # ========================
 # 📊 MARKET SETTINGS
 # ========================
-SYMBOL = "BTC/USDT"
+SYMBOL = "SHIB/USDT"
 TIMEFRAME = "5m"
 
 # ========================

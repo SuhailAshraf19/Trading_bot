@@ -41,3 +41,82 @@
 2026-05-04 18:54:18,151 - ⚠️ ERROR: binance GET https://api.binance.com/api/v3/exchangeInfo
 2026-05-04 18:59:18,184 - ⚠️ ERROR: binance GET https://api.binance.com/api/v3/exchangeInfo
 2026-05-04 19:04:18,219 - ⚠️ ERROR: binance GET https://api.binance.com/api/v3/exchangeInfo
+2026-05-04 20:41:32,054 - 🚀 Bot Started...
+2026-05-04 20:41:37,838 - --------------------------------------------------
+2026-05-04 20:41:37,838 - Price: 79955.71
+2026-05-04 20:41:37,838 - Trend: strong_bullish | Structure: sideways
+2026-05-04 20:41:37,838 - Decision: no_trade
+2026-05-04 20:41:37,838 - Position: None
+2026-05-04 20:41:37,838 - ⚪ NO ACTION
+2026-05-04 20:47:39,503 - 🚀 Bot Started...
+2026-05-04 20:47:42,695 - --------------------------------------------------
+2026-05-04 20:47:42,696 - Price: 6.21e-06
+2026-05-04 20:47:42,696 - Trend: strong_bullish | Structure: downtrend
+2026-05-04 20:47:42,696 - Decision: no_trade
+2026-05-04 20:47:42,696 - Position: None
+2026-05-04 20:47:42,696 - ⚪ NO ACTION
+2026-05-04 20:53:40,753 - 🚀 Bot Started...
+2026-05-04 20:53:43,828 - ⚠️ ERROR: name 'BUY_THRESHOLD' is not defined
+2026-05-04 20:55:32,513 - 🚀 Bot Started...
+2026-05-04 20:55:37,026 - --------------------------------------------------
+2026-05-04 20:55:37,026 - Price: 6.18e-06
+2026-05-04 20:55:37,026 - Trend: sideways | Structure: downtrend
+2026-05-04 20:55:37,026 - Decision: no_trade
+2026-05-04 20:55:37,026 - Position: None
+2026-05-04 20:55:37,027 - 📊 Decision Reasons:
+2026-05-04 20:55:37,027 -  - Trend sideways → no strong direction
+2026-05-04 20:55:37,027 -  - Market structure downtrend
+2026-05-04 20:55:37,027 -  - Near support
+2026-05-04 20:55:37,027 -  - Bullish candle: bullish_continuation
+2026-05-04 20:55:37,027 -  - Score = 2 → No trade
+2026-05-04 20:55:37,027 - ⚪ NO ACTION
+2026-05-05 09:29:00,845 - 🚀 Bot Started...
+2026-05-05 09:29:05,259 - --------------------------------------------------
+2026-05-05 09:29:05,259 - Price: 6.22e-06
+2026-05-05 09:29:05,259 - Trend: sideways | Structure: downtrend
+2026-05-05 09:29:05,259 - Decision: no_trade
+2026-05-05 09:29:05,259 - Position: None
+2026-05-05 09:29:05,259 - 📊 Decision Reasons:
+2026-05-05 09:29:05,260 -  - Trend sideways → no strong direction
+2026-05-05 09:29:05,260 -  - Market structure downtrend
+2026-05-05 09:29:05,260 -  - Near support
+2026-05-05 09:29:05,260 -  - No strong candlestick signal
+2026-05-05 09:29:05,260 -  - Score = 0 → No trade
+2026-05-05 09:29:05,260 - ⚪ NO ACTION
+2026-05-05 09:34:09,064 - --------------------------------------------------
+2026-05-05 09:34:09,064 - Price: 6.22e-06
+2026-05-05 09:34:09,064 - Trend: sideways | Structure: downtrend
+2026-05-05 09:34:09,064 - Decision: no_trade
+2026-05-05 09:34:09,064 - Position: None
+2026-05-05 09:34:09,064 - 📊 Decision Reasons:
+2026-05-05 09:34:09,064 -  - Trend sideways → no strong direction
+2026-05-05 09:34:09,064 -  - Market structure downtrend
+2026-05-05 09:34:09,064 -  - Near support
+2026-05-05 09:34:09,064 -  - Bullish candle: bullish_continuation
+2026-05-05 09:34:09,064 -  - Score = 2 → No trade
+2026-05-05 09:34:09,064 - ⚪ NO ACTION
+2026-05-05 09:39:12,755 - --------------------------------------------------
+2026-05-05 09:39:12,755 - Price: 6.21e-06
+2026-05-05 09:39:12,755 - Trend: sideways | Structure: downtrend
+2026-05-05 09:39:12,755 - Decision: no_trade
+2026-05-05 09:39:12,755 - Position: None
+2026-05-05 09:39:12,755 - 📊 Decision Reasons:
+2026-05-05 09:39:12,755 -  - Trend sideways → no strong direction
+2026-05-05 09:39:12,755 -  - Market structure downtrend
+2026-05-05 09:39:12,756 -  - MA bearish crossover
+2026-05-05 09:39:12,756 -  - Near support
+2026-05-05 09:39:12,756 -  - Bearish candle: bearish_continuation
+2026-05-05 09:39:12,756 -  - Score = -4 → No trade
+2026-05-05 09:39:12,756 - ⚪ NO ACTION
+2026-05-05 09:44:18,343 - --------------------------------------------------
+2026-05-05 09:44:18,343 - Price: 6.2e-06
+2026-05-05 09:44:18,344 - Trend: sideways | Structure: downtrend
+2026-05-05 09:44:18,344 - Decision: no_trade
+2026-05-05 09:44:18,344 - Position: None
+2026-05-05 09:44:18,344 - 📊 Decision Reasons:
+2026-05-05 09:44:18,344 -  - Trend sideways → no strong direction
+2026-05-05 09:44:18,344 -  - Market structure downtrend
+2026-05-05 09:44:18,344 -  - Near support
+2026-05-05 09:44:18,344 -  - Bearish candle: bearish_continuation
+2026-05-05 09:44:18,344 -  - Score = -2 → No trade
+2026-05-05 09:44:18,344 - ⚪ NO ACTION

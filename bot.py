@@ -78,9 +78,9 @@ def run_bot():
             breakout_signal = get_breakout_signal(data, volume_signal)
 
             # ========================
-            # DECISION
+            # DECISION + REASONS
             # ========================
-            decision = get_trade_decision(
+            decision, reasons = get_trade_decision(
                 trend,
                 ma_signal,
                 rsi_signal,
@@ -99,6 +99,10 @@ def run_bot():
             log(f"Trend: {trend} | Structure: {structure}")
             log(f"Decision: {decision}")
             log(f"Position: {position}")
+
+            log("📊 Decision Reasons:")
+            for r in reasons:
+                log(f" - {r}")
 
             # ========================
             # RISK MANAGEMENT
